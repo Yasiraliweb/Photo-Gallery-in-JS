@@ -1,0 +1,81 @@
+var images = [
+{
+	url: "beautiful_blue_bird-wallpaper-1366x768.jpg",
+	caption: "Beautiful Birds",
+	info: "This is the sample description"
+},
+{
+	url: "bird_on_twig-wallpaper-2560x1600.jpg",
+	caption: "Beautiful Birds",
+	info: "This is the sample description"
+},
+{
+	url: "blue_and_gold_macaw_parrots-wallpaper-1366x768.jpg",
+	caption: "Beautiful Birds",
+	info: "This is the sample description"
+},
+{
+	url: "blue_and_yellow_macaw-wallpaper-1366x768.jpg",
+	caption: "Beautiful Birds",
+	info: "This is the sample description"
+},
+{
+	url: "cute_owl-wallpaper-1366x768.jpg",
+	caption: "Beautiful Birds",
+	info: "This is the sample description"
+},
+{
+	url: "duck_in_water-wallpaper-1366x768.jpg",
+	caption: "Beautiful Birds",
+	info: "This is the sample description"
+},
+{
+	url: "elite_falcon-wallpaper-1366x768.jpg",
+	caption: "Beautiful Birds",
+	info: "This is the sample description"
+},
+{
+	url: "falcon-wallpaper-1366x768.jpg",
+	caption: "Beautiful Birds",
+	info: "This is the sample description"
+},
+{
+	url: "feather_berry-wallpaper-1366x768.jpg",
+	caption: "Beautiful Birds",
+	info: "This is the sample description"
+},
+{
+	url: "flamingos-wallpaper-1280x1024.jpg",
+	caption: "Beautiful Birds",
+	info: "This is the sample description"
+},
+{
+	url: "free_as_a_bird-wallpaper-2560x1600.jpg",
+	caption: "Beautiful Birds",
+	info: "This is the sample description"
+},
+{
+	url: "green_and_yellow_parrot-wallpaper-1366x768.jpg",
+	caption: "Beautiful Birds",
+	info: "This is the sample description"
+},
+{
+	url: "hummingbird-wallpaper-1366x768.jpg",
+	caption: "Beautiful Birds",
+	info: "This is the sample description"
+},
+{
+	url: "hummingbird_2-wallpaper-1366x768.jpg",
+	caption: "Beautiful Birds",
+	info: "This is the sample description"
+},
+{
+	url: "i_am_back-wallpaper-2560x1600.jpg",
+	caption: "Beautiful Birds",
+	info: "This is the sample description"
+},
+{
+	url: "malachite_kingfisher_lake_nakuru_national_park_kenya-wallpaper-1366x768.jpg",
+	caption: "Beautiful Birds",
+	info: "This is the sample description"
+}];
